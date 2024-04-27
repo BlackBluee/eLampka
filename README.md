@@ -8,7 +8,7 @@ Customization: Personalize your lighting experience with adjustable brightness a
 Ease of Integration: Straightforward integration with ESP modules for rapid deployment.
 Efficient Codebase: Optimized code ensures smooth performance and minimal resource consumption.
 Getting Started:
-Clone the Repository: git clone https://github.com/yourusername/elampka.git
+Clone the Repository: git clone https://github.com/BlackBluee/elampka.git
 Explore Applications: Dive into various applications for different lighting scenarios.
 Upload Code: Upload the desired code to your ESP microcontroller using Arduino IDE or PlatformIO.
 Connect LEDs: Wire up your RGB LED lamp according to the provided schematics.
